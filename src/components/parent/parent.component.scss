@@ -1,0 +1,13 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  background-color: rosybrown;
+    padding: 1rem;
+}
+
+.filters {
+  display: flex;
+  gap: 0.25rem;
+}
